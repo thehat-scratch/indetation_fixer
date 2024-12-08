@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: indentation-fixer
+Version: 0.1
+Summary: this package to help python devs fix indentation automatically
+Home-page: https://github.com/thehat-scratch
+Author: alaeddine
+Author-email: kingwarzone35@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
